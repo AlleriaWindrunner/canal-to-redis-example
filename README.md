@@ -138,6 +138,5 @@ mysql> insert into account_balance values (888, 100, NOW(), 999);
 
 ## 参考
 
-[后端存储实战课](https://time.geekbang.org/column/intro/287)
 [Canal@GitHub](https://github.com/alibaba/canal)  
 [Canal安装详解](https://juejin.im/post/5d88b109f265da03ef7a51f1)
