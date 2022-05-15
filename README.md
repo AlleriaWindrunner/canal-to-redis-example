@@ -1,6 +1,6 @@
 # Canal to Redis Example
 
-极客时间《后端存储实战课：17 | 大厂都是怎么做MySQL to Redis同步的？》示例代码。这个示例代码代码演示如何利用Canal从MySQL实时同步数据到Redis中去。
+这个示例代码代码演示如何利用Canal从MySQL实时同步数据到Redis中去。
 
 ## 环境要求
 
